@@ -1,0 +1,24 @@
+.bb{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    font-family: Tahoma;
+    border-top: solid 1px;
+    margin: 2% auto 2%;
+    position: static;
+    text-align: center;
+    border-color: #687291;
+}
+#a, #c, #e{
+    background-color: #dfe1e7;
+}
+#b, #d{
+    background-color: #eeeff2;
+}
+#f{
+    background-color: #687291;
+    border: solid black 4px ;
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

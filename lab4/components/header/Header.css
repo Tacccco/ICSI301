@@ -1,0 +1,29 @@
+.image{
+    width: auto;
+    height: 100px;
+    border-radius: 50%;
+}
+.container-header{
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+    /* background-color: cyan; */
+    flex-wrap: nowrap;
+}
+.container-header div{
+    display: inline-block;
+}
+.text{
+    width: auto;
+    color: maroon;
+    font-weight: 400;
+    font-size: 1.2rem;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+img{
+    width: auto;
+    height: 100%;
+}

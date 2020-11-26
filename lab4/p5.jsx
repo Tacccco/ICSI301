@@ -40,7 +40,7 @@ class MenuBar extends React.Component {
     render() {
         let linkStyle = {
             textDecoration: 'none', 
-            color: "black"
+            color: "blue"
         };
 
         return (
